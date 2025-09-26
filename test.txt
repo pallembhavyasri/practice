@@ -1,4 +1,13 @@
 This is sample text file 
+<<<<<<< HEAD
+
 Edited the content for one merge conflict
 Learning the conflict
+
+=======
+
+Another dev devloping code 
+
+
+>>>>>>> 501924f (another dev)
  
