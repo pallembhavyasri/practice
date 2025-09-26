@@ -1,16 +1,6 @@
 This is sample text file 
-<<<<<<< HEAD
-
 Learning the conflict
-
-=======
-
 Another dev devloping code 
-<<<<<<< HEAD
-
-
->>>>>>> 501924f (another dev)
-=======
 Raising conflicts 
->>>>>>> b8709a3 (chance for conflict)
+
  
