@@ -1,4 +1,6 @@
 This is sample text file 
-Edited the content for one merge conflict
 Learning the conflict
+Another dev devloping code 
+Raising conflicts 
+
  
