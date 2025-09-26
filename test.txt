@@ -1,1 +1,3 @@
 This is sample text file 
+Added some extra content after creating the branch 
+Learning the merge 
