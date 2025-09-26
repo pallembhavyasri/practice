@@ -1,13 +1,16 @@
 This is sample text file 
 <<<<<<< HEAD
 
-Edited the content for one merge conflict
 Learning the conflict
 
 =======
 
 Another dev devloping code 
+<<<<<<< HEAD
 
 
 >>>>>>> 501924f (another dev)
+=======
+Raising conflicts 
+>>>>>>> b8709a3 (chance for conflict)
  
